@@ -1,3 +1,5 @@
 Here is a new file. It is good.
 
 I love kittens!
+
+Rebase test #2.
