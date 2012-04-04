@@ -4,4 +4,4 @@ How about something really new?
 
 This would make a good change for the third commit.
 
-Time for a rebase test!
+Time for a rebase test! Seriously.
