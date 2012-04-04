@@ -1,3 +1,5 @@
 This is my first addition!
 
 How about something new?
+
+This would make a good change for the third commit.
