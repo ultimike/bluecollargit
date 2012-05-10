@@ -7,3 +7,5 @@ This would make a good change for the third commit.
 Time for a rebase test! Seriously.
 
 Let's see if I can push this to the remote repo.
+
+This is from the second user.
