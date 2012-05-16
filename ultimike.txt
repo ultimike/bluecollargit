@@ -1,1 +1,1 @@
-Here is a file that will soon have a conflict in it!
+Here is a file that will soon have a conflict in it.
