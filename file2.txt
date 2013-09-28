@@ -1,6 +1,6 @@
 Here is a new file. It is good.
 
-I love kittens!
+I love kittens and puppies!
 
 Rebase test #2.
 
