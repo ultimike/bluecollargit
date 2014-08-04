@@ -9,3 +9,4 @@ Time for a rebase test! Seriously. Woo Hoo! Yahoo!
 Let's see if I can push this to the remote repo - it looks like it worked fine!
 
 This is from the second user.
+New line 12.
