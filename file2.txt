@@ -5,3 +5,5 @@ I love kittens and puppies!
 Rebase test #2.
 
 Here's a change from the first user.
+
+Here's another change from a mysterious masked man.
