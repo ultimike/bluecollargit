@@ -3,3 +3,5 @@ I'm a new file!
 I'm a new line, added at the "origin".
 
 Trying another merge.
+
+This is Mike's change.
