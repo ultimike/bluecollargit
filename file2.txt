@@ -8,7 +8,7 @@ Here's a change from the first user.
 
 Here's another change from a mysterious masked man.
 
-img {margin:0 0 0 1em;}
+img {margin:0 0 0 0.5em;}
 
 h1 {font-size: 2em;}
 
