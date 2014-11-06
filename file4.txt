@@ -1,4 +1,6 @@
-This is a new file from a user.
+This is a new file from a user. - Mike did this.
+This is a new file from the 2nd user. - Linda's change.
+
 
 Brilliant.
 Rick now works in the file.
