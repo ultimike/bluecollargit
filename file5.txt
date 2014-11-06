@@ -1,2 +1,4 @@
 This is me!
+Danger - collision ahead!
 This is a change to file 5
+
