@@ -8,6 +8,8 @@ Time for a rebase test! Seriously. Woo Hoo! Yahoo!
 
 Bill was here Drupal Easy Blue Collar workshop
 
+Bill was here again#2 Drupal Easy Blue Collar workshop
+
 Let's see if I can push this to the remote repo - it looks like it worked fine!
 
 This is from the second user.
