@@ -13,3 +13,5 @@ img {margin:0 0 0 0.5em;}
 h1 {font-size: 2em;}
 
 // first one to commit to the repository wins!
+
+Welcome Linda, Rick, or Steve!
