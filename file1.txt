@@ -10,11 +10,12 @@ Bill was here Drupal Easy Blue Collar workshop
 
 Bill was here again#2 Drupal Easy Blue Collar workshop
 
-Steve has made an update for a manufactured conflict.
 
-Bill was here again#3
+Steve has made an update for a manufactured conflict.  Bill was here again#3
 
-Let's see if I can push this to the remote repo - it looks like it worked fine!
+ - it looks like it worked fine!
+
+This line goes away --Let's see if I can push ......bye bye...
 
 This is from the second user.
 New line 12.
