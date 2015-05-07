@@ -12,4 +12,3 @@ page_title
 social_media_links
 features
 libraries
-
