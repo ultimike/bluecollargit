@@ -1,3 +1,4 @@
+commerce
 admin_menu
 module_filter
 logintoboggan
