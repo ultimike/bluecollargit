@@ -1,4 +1,5 @@
-commerce
+Mike's favorite modules
+
 admin_menu
 module_filter
 logintoboggan
@@ -13,3 +14,4 @@ page_title
 social_media_links
 features
 libraries
+commerce (when needed)
