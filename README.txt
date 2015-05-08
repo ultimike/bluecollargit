@@ -1,6 +1,6 @@
 Have you tried turning off and on?
 
-This is a test repository for DrupalEasy's BlueCollarGit workshop.
+This is a test repository for DrupalEasy's BEST BlueCollarGit workshop.
 
 The teacher is really workin the git functionality. Better plan on some extended support.
 
