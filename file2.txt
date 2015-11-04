@@ -2,7 +2,7 @@
 Conflict resolution is cheaper than lawyers.
 
 
-Marvin will make his edits to the top of the file.  The top of the
+Rafael is pushing line 5 first to create a conflict
 file is good.  No points for this change.
 
 Here is an old file. It is sort of good.
