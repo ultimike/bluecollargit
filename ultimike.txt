@@ -2,3 +2,6 @@ Here is a file that will soon have a conflict in it?
 
 No conflicts here!
 
+Successful conflict resolution.
+
+
