@@ -2,7 +2,7 @@ This is another change to line 1.
 Love Howie - Mr Pee-body
 Another great  movie: Empire Strikes Back
 This is my first addition! <- this was about a year ago...
-There was no text here so adding text to line 5. . ..here you go Marvin!
+There was no text here so adding text to line 5. . ..here you go Marvin! Conflict Resolved
 How about something really new?
 
 This would make a good change for the third commit.
