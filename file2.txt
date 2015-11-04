@@ -1,8 +1,7 @@
 
 Conflict resolution is cheaper than lawyers.
 
-
-Rafael is pushing line 5 first to create a conflict
+Sara and Rafael will make their edits to the top of the file.  The top of the
 file is good.  No points for this change.
 
 Here is an old file. It is sort of good.
