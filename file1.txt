@@ -21,3 +21,5 @@ This line goes away --Let's see if I can push ......bye bye...
 
 This is from the second user.
 New line 12.my test
+
+Class always has some crazy talk!
