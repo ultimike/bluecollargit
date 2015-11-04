@@ -24,3 +24,4 @@ New line 12.my test
 
 Class always has some crazy talk!
 This is my second comment
+hello
