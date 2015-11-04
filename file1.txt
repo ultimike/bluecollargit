@@ -1,7 +1,6 @@
 This is another change to line 1.
-
+Love Howie - Mr Pee-body
 Another great  movie: Empire Strikes Back
-
 This is my first addition! <- this was about a year ago...
 
 How about something really new?
@@ -10,20 +9,12 @@ This would make a good change for the third commit.
 
 Time for a rebase test! Seriously. Woo Hoo! Yahoo!
 
-Bill was here Drupal Easy Blue Collar workshop
-
-Bill was here again#2 Drupal Easy Blue Collar workshop
+Let's see if I can push this to the remote repo - it looks like it worked fine!
 
 
-Steve has made an update for a manufactured conflict.  Bill was here again#3
-
- - it looks like it worked fine!
-
-This line goes away --Let's see if I can push ......bye bye...
-
-This is from the second user.
 New line 12.my test
-
 Class always has some crazy talk!
 This is my second comment
 hello
+New line 12.
+
