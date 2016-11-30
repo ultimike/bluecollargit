@@ -18,5 +18,11 @@ thisothermodule
 anotherchange
 andagain
 
+Peter's Favorite modules
+
+admin_toolbar
+ctools
+addthis
+captcha
 
 commerce (when needed)
