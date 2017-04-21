@@ -5,6 +5,7 @@ Not panicking still.
 
 This is my change to file1. Don't Panic.
 
+Hey now, you're a rock star.
 
 This is another change to line 1.
 Love Howie - Mr Pee-body
