@@ -22,6 +22,6 @@ Let's see if I can push this to the remote repo - it looks like it worked fine!
 New line 12.my test
 Class always has some crazy talk!
 This is my second comment
-Today is December 6th.
+Today is December 6th, 2017.
 
 
