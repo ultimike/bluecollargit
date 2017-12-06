@@ -23,19 +23,5 @@ New line 12.my test
 Class always has some crazy talk!
 This is my second comment
 hello
-New line 12.
 
-Soft kitty, 
-
-Warm kitty, 
-
-Little ball of fur.
-
-Happy kitty, 
-
-Sleepy kitty, 
-
-Purr Purr Purr
-
-Purr Purr Purr
 
