@@ -1,4 +1,4 @@
-I think it may be among the worst!
+I think this is now the new first line.
 Here is a file created by Wanda! It's not the worst file in this repository. 
 
 V2.0
