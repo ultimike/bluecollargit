@@ -23,7 +23,7 @@ I love kittens and cute puppies! (not all puppies are cute)
 
 Rebase test #2. and a bunch of text was added by Steve - new line More Stuff 
 
-Here's a change from the first user. -- Linda's Change.
+Here's a change from the first user. -- Linda's Change. Steve, why are you messing with my code?
 
 Here's yet another change from a super-mysterious mustached masked man.
 
