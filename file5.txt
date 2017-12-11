@@ -15,3 +15,5 @@ Mike is playing with GitUp.
 Lisa has added a new line 14.
 
 Daniel K. GIT work!
+
+quick change
