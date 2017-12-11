@@ -1,3 +1,5 @@
+Hi from Adrian83! This is the fall 2017 DrupalEasy DCO class.
+
 This is a test repository for the DrupalEasy Drupal Career Online and BlueCollarGit workshops.
 Have you tried turning off and on?
 
