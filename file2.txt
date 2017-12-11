@@ -21,7 +21,7 @@ Here is an old file. It is sort of good.
 
 I love kittens and cute puppies! (not all puppies are cute)
 
-Rebase test #2. This is Adrian's change and a bunch of text was added by Steve 
+Rebase test #2. and a bunch of text was added by Steve 
 
 Here's a change from the first user. -- Linda's Change.
 
