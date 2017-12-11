@@ -1,4 +1,4 @@
-Here is a file created by Wanda! It's the worst file in this repository.
+Here is a file created by Wanda! It's not the worst file in this repository. 
 
 V2.0
 Jeremiah is totally changing this file!
