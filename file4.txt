@@ -26,3 +26,6 @@ commerce (when needed)
 
 Hey Hey! Lalithas learning GIT! :)
 Another example here
+
+Fuzzy Wuzzy was a bear
+Fuzzy Wuzzy had no hair
