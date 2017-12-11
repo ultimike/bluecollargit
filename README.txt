@@ -1,4 +1,4 @@
-Hi from Adrian83! This is the fall 2017 DrupalEasy DCO class.
+Hi from Adrian83! This is the fall 2017 DrupalEasy DCO class. Enjoy your day.
 
 This is a test repository for the DrupalEasy Drupal Career Online and BlueCollarGit workshops.
 Have you tried turning off and on?
