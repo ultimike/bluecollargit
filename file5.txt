@@ -1,6 +1,3 @@
-This is for Mike - he's going to demo conflict resolution. I've got it now.
-Too easy Mike. I can handle that ;)
-
 This is me!
 Danger - collision ahead!
 This is a change to file 5
@@ -13,5 +10,7 @@ astroCat 5: The return of Dog the Conquerer.
 tamaraz playing with file5 for dcoSpring2015.
 
 Mike is playing with GitUp.
+
+Lisa has added a new line 14.
 
 Daniel K. GIT work!
