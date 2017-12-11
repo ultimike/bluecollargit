@@ -8,7 +8,6 @@ BEER AVG
 TrÃ¶egs Brewing CompanyTrÃ¶egs Brewing Company
 PLACE INFO 
 
-<<<<<<< HEAD
 Type: Brewery, Bar, Eatery, and Merry Christmas!!!
 
 200 East Hersheypark Dr
