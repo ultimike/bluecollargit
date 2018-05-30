@@ -1,4 +1,4 @@
-# DrualEasy Summer 2018 - Markdown Edition
+# DrualEasy Spring 2018 - Markdown Edition
 Welcome to the DrupalEasy class, you can sign up for classes at
 --
 [DrupalEasy.com](https://www.drupaleasy.com/)
