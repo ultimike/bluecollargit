@@ -30,6 +30,9 @@ Today is December 6th, 2017.
 Let's see if we can create a merge bubble.
 
 something about cats
+Mike says:
 I'm going to add some stuff about dogs,
 because dogs are much cooler than
 cats.
+But Leslie likes cats better....
+I can't say more about cats?  
