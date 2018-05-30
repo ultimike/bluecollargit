@@ -2,7 +2,6 @@ Mike's favorite modules
 
 admin_menu 			(d7, d8-dev) 			- https://www.drupal.org/project/admin_menu
 module_filter 		(d7, d8-dev) 			- https://www.drupal.org/project/module_filter
-logintoboggan 		(d7) 					- https://www.drupal.org/project/logintoboggan
 ctools  			(d7, d8 core + d8-dev) 	- https://www.drupal.org/project/ctools
 views - 			(d7, d8 core) 			- https://www.drupal.org/project/views
 transliteration 	(d7) 					- https://www.drupal.org/project/transliteration
