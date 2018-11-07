@@ -1,4 +1,4 @@
-Double-secret code change - everyone knows the secret.
+Secret code change - everyone knows the secret
 
 One more time changing
 
@@ -39,4 +39,4 @@ Making another change just for the fun of it.
 
 We will win.
 
-Slow atom editor! 
+No again, slow atom editor!
