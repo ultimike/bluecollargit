@@ -1,7 +1,6 @@
 # DrupalEasy Fall 2018 - Markdown Edition
-Welcome to the DrupalEasy class, you can sign up for classes at
---
-[DrupalEasy.com](https://www.drupaleasy.com/)
+Welcome to the DrupalEasy class, you can sign up for classes at [DrupalEasy.com](https://www.drupaleasy.com/)
+
 ##### Older changes
 
 > Greetings from Fall 2018! May *Drupal prowess* be with you.
