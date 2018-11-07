@@ -1,4 +1,4 @@
-Secret code change - everyone knows the secret
+Double-secret code change - everyone knows the secret.
 
 One more time changing
 
