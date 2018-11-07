@@ -5,7 +5,7 @@ Welcome to the DrupalEasy class, you can sign up for classes at [DrupalEasy.com]
 
 > Greetings from Fall 2018! May *Drupal prowess* be with you.
 > ![Computering Mastery](https://media.giphy.com/media/AceKHfcUrqauQ/giphy.gif)
-> `when(1){alert('Drupal Fall 18 is Awesome!')}`
+> Run this code in your dev tools console: `when(1){alert('Drupal Fall 18 is Awesome!')}`
 
 > Hi from Adrian83! This is the fall 2017 DrupalEasy DCO class. Enjoy your day. Say hi to the next person.
 
