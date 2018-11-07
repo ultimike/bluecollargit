@@ -4,7 +4,8 @@ Welcome to the DrupalEasy class, you can sign up for classes at
 [DrupalEasy.com](https://www.drupaleasy.com/)
 ##### Older changes
 
-> Greetings from Fall 2018! May *Drupal prowess* be with you. 
+> Greetings from Fall 2018! May *Drupal prowess* be with you.
+> ![Computering Mastery](https://media.giphy.com/media/AceKHfcUrqauQ/giphy.gif)
 
 > Hi from Adrian83! This is the fall 2017 DrupalEasy DCO class. Enjoy your day. Say hi to the next person.
 
