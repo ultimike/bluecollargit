@@ -1,0 +1,4 @@
+This is Steve. I am adding this to Mike's Bluecollar Git Repo.
+And now Stephen is editing the file...
+
+I have an idea. Let's add a guestlog to the repo to track all the users!
