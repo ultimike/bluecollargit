@@ -10,7 +10,7 @@ Veggies es bonus vobis, proinde vos postulo essum magis kohlrabi welsh onion dai
 
 Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.
 
-Dave is not here man! 
+Dave is not here man!
 
 Conflict resolution is cheaper than lawyers.
 
@@ -23,7 +23,7 @@ Here is an old file. It is sort of good.
 
 I love kittens and cute puppies! (not all puppies are cute)
 
-Rebase test #2. Both Adrian and Steve made changes to this line. 
+Rebase test #2. Both Adrian and Steve made changes to this line.
 
 Here's a change from the first user. -- Linda's Change. Steve, why are you messing with my code?
 
@@ -35,8 +35,8 @@ Welcome Linda, Rick, or Steve!
 
 Makin a change!
 
-Making another change just for the fun of it. 
+Making another change just for the fun of it.
 
 We will win.
 
-Yes, again
+Slow atom editor! 
