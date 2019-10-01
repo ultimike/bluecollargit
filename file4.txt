@@ -18,8 +18,6 @@ Peter's Favorite modules
 
 admin_toolbar is super cool and you should use it if you want to be cool too.  Or not, instead, use Konami Code Module.  Doy.
 ctools
-addthis
-captcha
 
 commerce (when needed)
 
@@ -27,6 +25,7 @@ Hey Hey! Lalithas learning GIT! :)
 Another example here
 
 Hello, Lalithas. Are you still here?
+Yes I'm here. 
 
 Fuzzy Wuzzy was a bear
 Fuzzy Wuzzy had no hair
