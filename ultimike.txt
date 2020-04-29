@@ -6,6 +6,8 @@ Hey, Acquia U!
 
 Good evening, DCO class of Spring 2017.
 
+Welcome, class of Spring 2020!!
+
 I'm gonna win!
 
 Hey there, today is December 11, 2017! Woot! Let's do this for a second time!
@@ -15,3 +17,4 @@ Greetings, today is Wednesday, November 7, 2018!
 Hello from MidCamp! It's a git push race!
 
 Let's do our first git push/pull example for DCO Fall 2019.
+
