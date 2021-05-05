@@ -1,4 +1,4 @@
-# MIDCAMP 2019 - Markdown Edition
+# Markdown Edition
 Welcome to the Midcamp DrupalEasy class, you can sign up for classes at [DrupalEasy.com](https://www.drupaleasy.com/)
 
 ##### Older changes
