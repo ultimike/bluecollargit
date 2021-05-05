@@ -3,7 +3,7 @@ Welcome to the Midcamp DrupalEasy class, you can sign up for classes at [DrupalE
 
 ##### Older changes
 
-> Greetings from Fall 2018! May *Drupal prowess* be with you.
+> Greetings from Fall 2021! May *Drupal prowess* be with you.
 > ![Computering Mastery](https://media.giphy.com/media/AceKHfcUrqauQ/giphy.gif)
 
 > Run this code in your dev tools console: `while(1){alert('Drupal Fall 18 is Awesome!')}`
