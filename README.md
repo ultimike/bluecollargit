@@ -3,6 +3,7 @@ Welcome to the Midcamp DrupalEasy class, you can sign up for classes at [DrupalE
 
 ##### Older changes
 >Hi everybody!! Give your animal some pets for me!
+
 > Greetings from Fall 2021! May *Drupal prowess* be with you.
 > ![Computering Mastery](https://media.giphy.com/media/AceKHfcUrqauQ/giphy.gif)
 
