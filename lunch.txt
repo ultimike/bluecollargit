@@ -39,3 +39,5 @@ tAsTy ArT fOr tHe WiN!
       |``--........--'`|    '.______.'
        \              /
         `'----------'`
+
+Wow! ASCII art!
