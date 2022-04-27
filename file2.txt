@@ -1,6 +1,6 @@
 /* Here is a comment not worth making . . . Smashing Pumpkins Rules! */
 
-This is What is foolishness?! However will we continue?
+This is What is foolishness?! However will we continue? This is a conflict!
 Blah blah blah
 
 Secret code change - everyone knows the secret.
