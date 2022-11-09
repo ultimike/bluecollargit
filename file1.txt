@@ -1,67 +1,21 @@
-This is a new first line ... and now it's boring again :(
-This is a boring file and deserves a boring change ... 
+                   ()
+                 __/\__         
+        |\   .-"`      `"-.   /|
+        | \.'( ') (' ) (. )`./ |
+         \_                  _/
+           \  `~"'=::='"~`  /
+    ,       `-.__      __.-'       ,
+.---'\________( `""~~""` )________/'---.
+ >   )       / `""~~~~""` \       (   <
+'----`--..__/        -(-)- \__..--`----'
+            |_____ __ _____|
+            [_____[##]_____]  I HAVE BEEN CHOSEN...
+            |              |    FAREWELL MY FRIENDS...
+            \      ||      /     I GO ONTO A BETTER PLACE!
+       jgs   \     ||     /
+          .-"~`--._||_.--'~"-.
+         (_____,.--""--.,_____)
+
+This is NOT a boring file and deserves a boring change ... 
 This is a more boring change. 
 This file is now not boring ... it's exciting!
-
-An ill-advised change was made to this file. It was a bad choice!
-I'd like a brain transplant: this one's all worn out, so I really need a new one.
-Whose brain did you put in him? Abby Something.
-
-Speaking of DrupalEasy, is Drupal really easy?
-
-Cuz this is Banyan's change, because it seems there is nothing easy about Drupal.
-
-Who is Dave and does he know Tommy Chong?
-Dave's not here, man
-
-
-Back in Black - AC/DC.
-This is my change to file1. Don't Panic.
-
-Hey now, you're a rock star.
-
-Love Howie - Mr Pee-body
-Another great  movie: Empire Strikes Back
-This is my first addition! <- this was about a year ago...
-There was no text here so adding text to line 5. . ..here you go Marvin! Conflict Resolved
-How about something really new?
-
-This would make a good change for the third commit.
-
-Time for a rebase test! Seriously. Woo Hoo! Yahoo!
-
-Let's see if I can push this to the remote repo - it looks like it worked fine!
-
-Class always has some crazy talk!
-This is my second comment
-Today is December 6th, 2017.
-
-Let's see if we can create a merge bubble.
-
-something about cats
-Mike says:
-I'm going to add some stuff about dogs,
-because dogs are much cooler than
-cats.
-But Leslie likes cats better....
-I can't say more about cats?  
-
-Ukraine is a large country in Eastern Europe known for its Orthodox churches, Black Sea coastline and forested mountains. Its capital, Kiev, features the gold-domed St. Sophia's Cathedral, with 
-11th-century mosaics and frescoes.
-
-
-This is my change.
-
-Whales are a widely distributed and diverse group of fully aquatic placental marine mammals. They are an informal grouping within the infraorder Cetacea, usually excluding dolphins and porpoises. Whales, dolphins and porpoises belong to the order Cetartiodactyla, which consists of even-toed ungulates.
-
-Whales are a widely distributed and diverse group of fully aquatic placental marine mammals. They are an informal grouping within the infraorder Cetacea, usually excluding dolphins and porpoises. Whales, dolphins and porpoises belong to the order Cetartiodactyla, which consists of even-toed ungulates
-
-
-We are the champions, my friends
-And we'll keep on fighting till the end
-We are the champions
-We are the champions
-No time for losers
-'Cause we are the champions of the World
-
-DrupalEasy Academy 2022 student was here.
