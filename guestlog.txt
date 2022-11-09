@@ -18,3 +18,5 @@ This is October 7, 2021
 Hello, DCO Spring 2020!  
 
 hello, this line of text was added on 11-09-2022.
+the same is true for this line of text as well.
+ - dco fall 2022 student
