@@ -1,4 +1,5 @@
-Mike's favorite modules
+
+Mike's favorite modules admin_menu!
 
 admin_menu 			(d7, d8-dev) 			- https://www.drupal.org/project/admin_menu
 module_filter 		(d7, d8-dev) 			- https://www.drupal.org/project/module_filter
