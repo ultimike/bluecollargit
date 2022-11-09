@@ -1,5 +1,6 @@
 This is a boring file and deserves a boring change ... 
 This is a more boring change. 
+This file is now not boring ... it's exciting!
 
 An ill-advised change was made to this file. It was a bad choice!
 I'd like a brain transplant: this one's all worn out, so I really need a new one.
