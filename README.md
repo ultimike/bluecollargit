@@ -1,4 +1,4 @@
-DCO Fall 2022 - Anthony Here. Nice to meet you. 
+DCO Fall 2022 - Anthony here from somewhere in cyberspace. Nice to meet you!
 
 #This is a change from Spring 2022
 
