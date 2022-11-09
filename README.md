@@ -1,4 +1,6 @@
-DCO Fall 2022 - Anthony here from somewhere in cyberspace. Nice to meet you!
+# DCO Fall 2022 
+- Anthony here from somewhere in cyberspace. Nice to meet you!
+[Squirrel Coders be like...](https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif)
 
 #This is a change from Spring 2022
 
