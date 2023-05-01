@@ -7,7 +7,7 @@ Here is some more text. This text should displace the top of the bat wings.    =
 `            "   "            `
 ~its a bat!! -Jay wrote this
 
-It looks like a batrat to me..... 
+It looks like it is a batrat to me.....  - jj wrote this time 
 
 /* Here is a comment not worth making . . . Smashing Pumpkins Rules! */
 Watch out!
