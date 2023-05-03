@@ -14,7 +14,7 @@ Batman can go into a store without Robin.
 ~its a bat!! -Jay wrote this
 
 It looks like it is a batrat to me.....  - jj wrote this time 
-No!, No!, no!, it is a BatBunny - jj again
+//No!, No!, no!, it is a BatBunny - jj again
 /* Here is a comment not worth making . . . Smashing Pumpkins Rules! */
 Watch out!
 
