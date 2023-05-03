@@ -1,4 +1,6 @@
-Here is some more text. This text should displace the top of the bat wings.    =/\                 /\=
+Here is some more text. This text should displace the top of the bat wings.
+
+    =/\                 /\=
     / \'._   (\_/)   _.'/ \
    / .''._'--(o.o)--'_.''. \
   /.' _/ |`'=/ " \='`| \_ `.\
