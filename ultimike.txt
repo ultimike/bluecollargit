@@ -12,8 +12,6 @@ Welcome, class of Spring 2020!!
 
 Hey there, today is December 11, 2017! Woot! Let's do this for a second time!
 
-Greetings, today is Wednesday, November 7, 2018! 
-
 Let's do our first git push/pull example for DCO Fall 2019.
 
 It's time for the DCO Fall 2021 push/pull stuff!!!
