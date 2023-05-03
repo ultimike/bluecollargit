@@ -1,4 +1,4 @@
-Game Time!!!! what time?
+Game Time!!!! what time? I'ma drink all that beer and eat all those TACOS!
 We make beer. You drink beer. Huzzah.
 
   .   *   ..  . *  *
@@ -21,5 +21,10 @@ makin' a change
 DurpalEasy 2022 -change
 
 What we've got here is failure to communicate.Some men, you just can't reach.
+<<<<<<< HEAD
 What do you call a fish without eyes? Fsh
 Mike and I are going to have a conflict.
+=======
+at do you call a fish without eyes? Fsh
+me and mike 
+>>>>>>> ca6b574 (added to line 1 of charginghawk)
