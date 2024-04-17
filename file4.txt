@@ -20,6 +20,8 @@ Peter's Favorite modules
 admin_toolbar is super cool and you should use it if you want to be cool too.  Or not, instead, use Konami Code Module.  Doy.
 ctools
 
+polliwrath is a cool pokemon 
+
 commerce (when needed)
 
 Hey Hey! Lalithas learning GIT! :)
