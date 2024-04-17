@@ -32,3 +32,5 @@ Have you tried turning off and on?
 > Here's the first commit for the DCO Spring 2015 class!
 
 Here's a change to the readme.md file for the DCO Spring 2024 class.
+
+>we need to incorporate pokemon into this course somehow
