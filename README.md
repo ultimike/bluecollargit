@@ -1,3 +1,6 @@
+# DCO Spring 2024
+This Spring 2024
+
 # DCO Fall 2022 
 - Anthony here from somewhere in cyberspace. Nice to meet you!
 ![Squirrel Coders be like...](https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif)
