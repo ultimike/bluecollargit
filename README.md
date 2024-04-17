@@ -30,3 +30,5 @@ Have you tried turning off and on?
 > The teacher is really workin the git functionality. Better plan on some extended support.
 
 > Here's the first commit for the DCO Spring 2015 class!
+
+Here's a change to the readme.md file for the DCO Spring 2024 class.
