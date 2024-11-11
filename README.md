@@ -1,5 +1,5 @@
-# DCO Spring 2024
-This Spring 2024
+# DCO Fall 2024
+This is the Fall 2024 semester of the DCO with Andrew, Martiza, Dylan, David, and Michele.
 
 # DCO Fall 2022 
 - Anthony here from somewhere in cyberspace. Nice to meet you!
