@@ -1,6 +1,8 @@
 # DCO Fall 2024
 This is the Fall 2024 semester of the DCO with Andrew, Martiza, Dylan, David, and Michele.
 
+Today is November 11, 2024.
+
 # DCO Fall 2022 
 - Anthony here from somewhere in cyberspace. Nice to meet you!
 ![Squirrel Coders be like...](https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif)
