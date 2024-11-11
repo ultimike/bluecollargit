@@ -2,7 +2,7 @@ On June 2016 branch
 
 
 
-Changes to the file are here from B. 
+Changes to the file are here from B <- I don't know what this means. 
 
 I changed this line. yea!! it stopped raining *Cindy
 
