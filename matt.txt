@@ -17,3 +17,9 @@ This is a change on April 17
 Fear the foot
 
 polliwrath is a cool pokemon!!!
+
+Newton’s law of gravity also tells us that the farther apart the bodies, the smaller the force. Newton’s law of
+gravity says that the gravitational attraction of a star is exactly one quarter that of a similar star at half the
+distance. This law predicts the orbits of the earth, the moon, and the planets with great accuracy. If the law
+were that the gravitational attraction of a star went down faster or increased more rapidly with distance, the
+orbits of the planets would not be elliptical, they would either spiral in to the sun or escape from the sun.
