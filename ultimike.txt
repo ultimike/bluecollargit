@@ -15,3 +15,16 @@ Hey there, today is December 11, 2017! Woot! Let's do this for a second time!
 Let's do our first git push/pull example for DCO Fall 2019.
 
 It's time for the DCO Fall 2021 push/pull stuff!!!
+
+        _==/          i     i          \==_
+      /XX/            |\___/|            \XX\
+    /XXXX\            |XXXXX|            /XXXX\
+   |XXXXXX\_         _XXXXXXX_         _/XXXXXX|
+  XXXXXXXXXXXxxxxxxxXXXXXXXXXXXxxxxxxxXXXXXXXXXXX
+ |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+  XXXXXX/^^^^^\XXXXXXXXXXXXXXXXXXXXX/^^^^^\XXXXXX
+   |XXX|       \XXX/^^\XXXXX/^^\XXX/       |XXX|
+     \XX\       \X/    \XXX/    \X/       /XX/
+        "\       "      \X/      "      /"
