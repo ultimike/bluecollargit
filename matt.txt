@@ -12,6 +12,16 @@ resurrected the ancient Northwest Native American legend of Sasquatch, baptizing
 it “Bigfoot” based on a plaster cast of a very large footprint taken in 1967 in
 Bluff Creek, in northern California.
 
+A nice way of visualizing the wave/particle duality is the so-called sum over histories introduced by the American scientist
+Richard Feynman. In this approach the particle is not supposed to have a single history or path in space-time, as it would
+in a classical, nonquantum theory. Instead it is supposed to go from A to B by every possible path. With each path there
+are associated a couple of numbers: one represents the size of a wave and the other represents the position in the cycle
+(i.e., whether it is at a crest or a trough). The probability of going from A to B is found by adding up the waves for all the
+paths. In general, if one compares a set of neighboring paths, the phases or positions in the cycle will differ greatly. This
+means that the waves associated with these paths will almost exactly cancel each other out. However, for some sets of
+neighboring paths the phase will not vary much between paths. The waves for these paths will not cancel out Such paths
+correspond to Bohr’s allowed orbits.
+
 This is a change on April 17
 
 Fear the foot
